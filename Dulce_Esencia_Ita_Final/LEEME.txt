@@ -1,0 +1,13 @@
+DULCE ESENCIA ITÁ — PROYECTO ACADÉMICO
+
+1. Abrí index.html en un navegador para ver la página.
+2. Los textos y las imágenes se organizan en index.html.
+3. Los colores, tamaños y la presentación se cambian en styles.css.
+4. Las imágenes y los íconos están guardados en la carpeta assets.
+5. Las clases y los nombres de las secciones están en español para que sea más fácil encontrarlos.
+6. El menú para pantallas pequeñas y las animaciones al desplazarse funcionan con script.js.
+7. Las animaciones se repiten al entrar y salir de la pantalla; también desaparecen al volver hacia arriba.
+8. Las animaciones se desactivan si el dispositivo está configurado para reducir el movimiento.
+9. Confirmá los horarios y los datos de contacto antes de compartir o publicar la página.
+10. Este es un ejercicio estudiantil; la marca y los datos de contacto son de ejemplo.
+11. Las fuentes se descargan desde Google Fonts y requieren conexión a Internet.
